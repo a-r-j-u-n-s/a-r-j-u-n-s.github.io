@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start --openssl-legacy-provider",
-    "build": "react-scripts build --openssl-legacy-provider",
+    "build": "react-scripts build --openssl-legacy-provider && cp build/index.html build/404.html",
     "test": "react-scripts --openssl-legacy-provider test",
     "eject": "react-scripts --openssl-legacy-provider eject",
     "lint": "eslint .",
