@@ -33,7 +33,7 @@ const projects = [
   {
     name: 'Data Migration - Firestore/Redis',
     description:
-      'A bash CLI and Python script for lcoal import/export jobs between Google Cloud Firestore and redis. Intended to be used for small projects where quick data transfer is needed.',
+      'A bash CLI and Python script for local import/export jobs between Google Cloud Firestore and redis. Intended to be used for small projects where quick data transfer is needed.',
     stack: ['Python', 'Bash', 'Redis', 'Firestore'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/data-migration-firestore-redis',
     // livePreview: 'https://github.com',
