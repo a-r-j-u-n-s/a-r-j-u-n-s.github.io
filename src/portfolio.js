@@ -23,6 +23,14 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Steam Savefile Manager',
+    description:
+      'A savefile manager for PC videogames on the Steam platform by Valve. Features include automatic savefile backups, custom saves, reverting to previous saves, and more!',
+    stack: ['Python'],
+    sourceCode: 'https://github.com/EldenRing-SaveManager',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'MuseShare',
     description:
       'A clean and simple open-source song sharing web app for musicians! Built with React and hosted with Firebase.',
@@ -36,14 +44,6 @@ const projects = [
       'A bash CLI and Python script for local import/export jobs between Google Cloud Firestore and redis. Intended to be used for small projects where quick data transfer is needed.',
     stack: ['Python', 'Bash', 'Redis', 'Firestore'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/data-migration-firestore-redis',
-    // livePreview: 'https://github.com',
-  },
-  {
-    name: 'Savefile Manager - Elden Ring',
-    description:
-      'A savefile manager for the videogame "Elden Ring" by FromSoftware. Features include automatic savefile backups, backup history, reverting to previous saves, etc. WIP',
-    stack: ['Python'],
-    sourceCode: 'https://github.com/EldenRing-SaveManager',
     // livePreview: 'https://github.com',
   },
 ]
