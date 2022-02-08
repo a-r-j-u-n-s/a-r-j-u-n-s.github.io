@@ -27,7 +27,7 @@ const projects = [
     description:
       'A savefile manager for PC videogames on the Steam platform by Valve. Features include automatic savefile backups, custom saves, reverting to previous saves, and more!',
     stack: ['Python'],
-    sourceCode: 'https://github.com/EldenRing-SaveManager',
+    sourceCode: 'https://github.com/a-r-j-u-n-s/EldenRing-SaveManager',
     // livePreview: 'https://github.com',
   },
   {
@@ -47,12 +47,6 @@ const projects = [
     // livePreview: 'https://github.com',
   },
 ]
-/*
-CLI
-User saved savegames, map name to file location, allow user to swap out savegames and query them easily
-Single temporary backup always created in one location whenever we swap or restore
-Autosave and create latest backup every X minutes, store up to Y previous backups (chosen by user)
-*/
 
 const music = [
   {
