@@ -27,7 +27,7 @@ const projects = [
     description:
       'A savefile manager for PC videogames on the Steam platform by Valve. Features include automatic savefile backups, custom saves, reverting to previous saves, and more!',
     stack: ['Python'],
-    sourceCode: 'https://github.com/a-r-j-u-n-s/EldenRing-SaveManager',
+    sourceCode: 'https://github.com/a-r-j-u-n-s/EldenRing_SaveManager',
     // livePreview: 'https://github.com',
   },
   {
