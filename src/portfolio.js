@@ -23,9 +23,9 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Steam Savefile Manager',
+    name: 'Savegame Manager',
     description:
-      'A savefile manager for PC videogames on the Steam platform by Valve. Features include automatic savefile backups, custom saves, reverting to previous saves, and more!',
+      'A savegame manager for singleplayer PC games. Features include automatic save folder backups, custom labeled saves, reverting your game to previous saves, and more!',
     stack: ['Python'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/EldenRing_SaveManager',
     // livePreview: 'https://github.com',
