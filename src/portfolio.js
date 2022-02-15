@@ -23,11 +23,11 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Savegame Manager',
+    name: 'SaveGame',
     description:
-      'A savegame manager for singleplayer PC games. Features include automatic save folder backups, custom labeled saves, reverting your game to previous saves, and more!',
-    stack: ['Python'],
-    sourceCode: 'https://github.com/a-r-j-u-n-s/EldenRing_SaveManager',
+      'A save manager command-line interface for singleplayer PC videogames. Features include automatic save folder backups, custom labeled saves, reverting your game to previous saves, and more!',
+    stack: ['Python', 'Batch'],
+    sourceCode: 'https://github.com/a-r-j-u-n-s/SaveManager',
     // livePreview: 'https://github.com',
   },
   {
