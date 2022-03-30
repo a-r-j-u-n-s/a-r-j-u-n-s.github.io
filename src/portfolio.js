@@ -23,9 +23,9 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'SaveGame',
+    name: 'SaveManager',
     description:
-      'A save manager command-line interface for singleplayer PC videogames. Features include automatic save folder backups, custom labeled saves, reverting your game to previous saves, and more!',
+      'A command-line interface for managing savegames in singleplayer PC videogames. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more!',
     stack: ['Python', 'Batch'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/SaveManager',
     // livePreview: 'https://github.com',
