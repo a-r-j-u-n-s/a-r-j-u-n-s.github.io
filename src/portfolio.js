@@ -23,11 +23,11 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'SaveManager',
+    name: 'SoulsSave',
     description:
-      'A command-line interface for managing savegames in singleplayer PC videogames. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more!',
+      "A command-line interface for managing savegames in FromSoftware's PC videogames. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more!",
     stack: ['Python', 'Batch'],
-    sourceCode: 'https://github.com/a-r-j-u-n-s/SaveManager',
+    sourceCode: 'https://github.com/a-r-j-u-n-s/SoulsSave',
     // livePreview: 'https://github.com',
   },
   {
