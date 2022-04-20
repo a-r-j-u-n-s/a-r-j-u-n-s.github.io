@@ -50,6 +50,14 @@ const projects = [
 
 const music = [
   {
+    name: 'Rain - Unprocessed (Acoustic Cover)',
+    description:
+      "My cover of Rain by Unprocessed",
+    link: "https://www.youtube.com/watch?v=SzgINZ0Wn2w",
+    embedId: "SzgINZ0Wn2w"
+    
+  },
+  {
     name: 'G.O.A.T - Polyphia (Ukulele Cover)',
     description:
       "My cover of Polyphia's 'G.O.A.T', but on a Uke",
@@ -98,14 +106,15 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'Python',
   'JavaScript',
-  'C',
+  'C/C++',
   'Java',
+  'Node.js',
+  'MongoDB',
   'React',
   'Django',
   'Git',
   'Redis',
   'Kafka',
-  'SystemVerilog',
 ]
 
 const contact = {
