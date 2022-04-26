@@ -25,7 +25,7 @@ const projects = [
   {
     name: 'SoulsSave',
     description:
-      "A program for managing savegames in FromSoftware's PC videogames complete with a full graphical user interface and command line interface. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more! Developed in pure Python and can be used with multiple games simultaneosly",
+      "A program for managing savegames in FromSoftware's PC videogames, complete with a full graphical user interface and command line interface. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more. Developed in pure Python and can be used with multiple games simultaneously!",
     stack: ['Python', 'Batch', 'Tcl'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/SoulsSave',
     // livePreview: 'https://github.com',
