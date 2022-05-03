@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://a-r-j-u-n-s.github.io/',
-  title: 'A.S.',
+  title: 'home',
 }
 
 const about = {
@@ -10,7 +10,7 @@ const about = {
   role: 'software developer and musician',
   description:
     "here's some stuff i've been working on recently!",
-  resume: 'https://www.linkedin.com/in/arjun-srivastava042701/overlay/1635480948987/single-media-viewer/',
+  resume: 'https://drive.google.com/file/d/1jMtR7GI8Ep8_82HVB6yuDoDzdHDI5dxu/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/arjun-srivastava042701/',
     github: 'https://github.com/a-r-j-u-n-s',
