@@ -28,15 +28,13 @@ const projects = [
       "A program for managing savegames in FromSoftware's PC videogames, complete with a full graphical user interface and command line interface. Features include automatic save folder backups, seamless interchanging of saves, recovering corrupted saves, and more. Developed in pure Python and can be used with multiple games simultaneously!",
     stack: ['Python', 'Batch', 'Tcl'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/SoulsSave',
-    // livePreview: 'https://github.com',
   },
   {
-    name: 'MuseShare',
+    name: 'RDXtreme',
     description:
-      'A clean and simple open-source song sharing web app for musicians! Built with React and hosted with Firebase.',
-    stack: ['JavaScript', 'React', 'Firebase', 'Jest'],
-    sourceCode: 'https://github.com/a-r-j-u-n-s/MuseShare-App',
-    livePreview: 'https://museshare-5e6ed.web.app/',
+      'A highly customizeable I/O testing program for storage devices (HDD, SSD), and memory (DIMM). Supports a wide variety of I/O tests and input parameters and runs on both ARM64 and x86 architectures',
+    stack: ['Rust', 'PowerShell', 'Win32'],
+    sourceCode: 'https://github.com/a-r-j-u-n-s/RDXtreme',
   },
   {
     name: 'Data Migration - Firestore/Redis',
@@ -44,7 +42,6 @@ const projects = [
       'A bash CLI and Python script for local import/export jobs between Google Cloud Firestore and redis. Intended to be used for small projects where quick data transfer is needed.',
     stack: ['Python', 'Bash', 'Redis', 'Firestore'],
     sourceCode: 'https://github.com/a-r-j-u-n-s/data-migration-firestore-redis',
-    // livePreview: 'https://github.com',
   },
 ]
 
@@ -105,8 +102,10 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'Python',
+  'Rust',
+  'C++',
   'JavaScript',
-  'C/C++',
+  'C',
   'Java',
   'Node.js',
   'MongoDB',
@@ -115,6 +114,7 @@ const skills = [
   'Git',
   'Redis',
   'Kafka',
+  'Win32'
 ]
 
 const contact = {
